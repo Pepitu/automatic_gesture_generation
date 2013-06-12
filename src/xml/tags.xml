@@ -1,0 +1,311 @@
+<!-- Este XML contiene todos los TAGS realizados hasta la fecha -->
+
+<tags>
+
+<!-- TAG 1 -->
+	<tag>
+		<etipro>sd</etipro>
+		<time>2</time>
+		<gest>Gesture_neutralTalk</gest>
+	</tag>
+
+<!-- TAG 2 -->
+	<tag>
+		<etipro>+</etipro>
+		<etipro>sd</etipro>
+		<time>8</time>
+		<gest>Gesture_neutralTalk</gest>
+	</tag>
+	
+<!-- TAG 3 -->
+	<tag>
+		<etipro>ny</etipro>
+		<etipro>x</etipro>
+		<etipro>b</etipro>
+		<time>2</time>
+		<gest>Gesture_neutralTalk</gest>
+	</tag>
+	
+<!-- TAG 4 -->
+	<tag>
+		<etipro>ny</etipro>
+		<time>1</time>
+		<gest>Gesture_neutralTalk</gest>
+	</tag>	
+	
+<!-- TAG 5 -->
+	<tag>
+		<etipro>nn</etipro>
+		<etipro>sd^e</etipro>
+		<time>2</time>
+		<gest>Gesture_passiveAnger</gest>
+	</tag>
+
+<!-- TAG 6 -->
+	<tag>
+		<etipro>nn</etipro>
+		<etipro>sd^e</etipro>
+		<time>2</time>
+		<gest>Gesture_passiveAnger</gest>
+	</tag>
+	
+<!-- TAG 7 -->
+	<tag>
+		<etipro>qy</etipro>
+		<time>4</time>
+		<gest>Gesture_passiveTalk</gest>
+	</tag>
+	
+<!-- TAG 8 -->
+	<tag>
+		<etipro>qy</etipro>
+		<time>3</time>
+		<gest>Gesture_passiveTalk</gest>
+	</tag>
+
+<!-- TAG 9 -->
+	<tag>
+		<etipro>ny</etipro>
+		<etipro>sd</etipro>
+		<etipro>sd</etipro>
+		<etipro>sd</etipro>
+		<time>3</time>
+		<gest>Gesture_neutralTalk</gest>
+	</tag>
+
+<!-- TAG 10 -->
+	<tag>
+		<etipro>aa</etipro>
+		<etipro>sv</etipro>
+		<time>1</time>
+		<gest>Gesture_neutralTalk</gest>
+	</tag>
+	
+<!-- TAG 11 -->
+	<tag>
+		<etipro>fp</etipro>
+		<etipro>fp</etipro>
+		<time>2</time>
+		<gest>Gesture_activeGreeting</gest>
+	</tag>
+
+<!-- TAG 12 -->
+	<tag>
+		<etipro>fp^m</etipro>
+		<etipro>fp</etipro>
+		<etipro>fp</etipro>
+		<time>2</time>
+		<gest>Gesture_activeGreeting</gest>
+	</tag>
+
+<!-- TAG 13 -->
+	<tag>
+		<etipro>fp</etipro>
+		<etipro>fp</etipro>
+		<etipro>fp</etipro>
+		<etipro>fp</etipro>
+		<etipro>fp</etipro>
+		<etipro>fe</etipro>
+		<etipro>sd</etipro>
+		<time>6</time>
+		<gest>Gesture_activeGreeting</gest>
+	</tag>
+	
+<!-- TAG 14 -->
+	<tag>
+		<etipro>fp</etipro>
+		<etipro>fp^m</etipro>
+		<etipro>fp</etipro>
+		<etipro>fp</etipro>
+		<time>4</time>
+		<gest>Gesture_activeGreeting</gest>
+	</tag>
+	
+<!-- TAG 15 -->
+	<tag>
+		<etipro>fp^m</etipro>
+		<etipro>sd</etipro>
+		<time>2</time>
+		<gest>Gesture_activeGreeting</gest>
+	</tag>
+	
+<!-- TAG 16 -->
+	<tag>
+		<etipro>fp</etipro>
+		<etipro>fp</etipro>
+		<time>3</time>
+		<gest>Gesture_activeGreeting</gest>
+	</tag>
+
+<!-- TAG 17 -->
+	<tag>
+		<etipro>qy^m</etipro>
+		<etipro>ba</etipro>
+		<time>4</time>
+		<gest>Gesture_activeSurprise</gest>
+	</tag>
+
+<!-- TAG 18 -->
+	<tag>
+		<etipro>fp</etipro>
+		<etipro>fp</etipro>
+		<etipro>sd</etipro>
+		<etipro>qw</etipro>
+		<time>2</time>
+		<gest>Gesture_neutralGreeting</gest>
+	</tag>
+
+<!-- TAG 19 -->
+	<tag>
+		<etipro>ba</etipro>
+		<time>3</time>
+		<gest>Gesture_neutralSurprise</gest>
+	</tag>
+
+<!-- TAG 20 -->
+	<tag>
+		<etipro>sd</etipro>
+		<time>6</time>
+		<gest>Gesture_neutralTalk</gest>
+	</tag>
+
+<!-- TAG 21 -->
+	<tag>
+		<etipro>nn</etipro>
+		<etipro>sd^e</etipro>
+		<time>2</time>
+		<gest>Gesture_passiveAnger</gest>
+	</tag>
+
+<!-- TAG 22 -->
+	<tag>
+		<etipro>fp</etipro>
+		<etipro>qw</etipro>
+		<time>6</time>
+		<gest>Gesture_passiveGreeting</gest>
+	</tag>
+
+<!-- TAG 23 -->
+	<tag>
+		<etipro>ba</etipro>
+		<time>3</time>
+		<gest>Gesture_passiveSurprise</gest>
+	</tag>
+
+<!-- TAG 24 -->
+	<tag>
+		<etipro>%</etipro>
+		<etipro>sd</etipro>
+		<etipro>sd</etipro>
+		<etipro>b</etipro>
+		<etipro>+</etipro>
+		<etipro>sv</etipro>
+		<etipro>+</etipro>
+		<time>12</time>
+		<gest>Gesture_passiveSurprise</gest>
+	</tag>
+
+<!-- TAG 25 -->
+	<tag>
+		<etipro>by</etipro>
+		<time>2</time>
+		<gest>Gesture_neutralAnger</gest>
+	</tag>
+
+<!-- TAG 26 -->
+	<tag>
+		<etipro>sv</etipro>
+		<time>3</time>
+		<gest>Gesture_neutralAnger</gest>
+	</tag>	
+
+<!-- TAG 27 -->
+	<tag>
+		<etipro>sd</etipro>
+		<time>9</time>
+		<gest>Gesture_activeTalk</gest>
+	</tag>
+
+<!-- TAG 28 -->
+	<tag>
+		<etipro>sd</etipro>
+		<time>5</time>
+		<gest>Gesture_activeTalk</gest>
+	</tag>	
+
+<!-- TAG 29 -->
+	<tag>
+		<etipro>sv</etipro>
+		<time>3</time>
+		<gest>Gesture_activeSurprise</gest>
+	</tag>
+
+<!-- TAG 30 -->
+	<tag>
+		<etipro>fe</etipro>
+		<time>2</time>
+		<gest>Gesture_passiveSurprise</gest>
+	</tag>
+
+<!-- TAG 31 -->
+	<tag>
+		<etipro>sv</etipro>
+		<etipro>b</etipro>
+		<etipro>sd</etipro>
+		<time>8</time>
+		<gest>Gesture_activeSurprise</gest>
+	</tag>
+
+<!-- TAG 32 -->
+	<tag>
+		<etipro>aa</etipro>
+		<etipro>+</etipro>
+		<etipro>%</etipro>
+		<etipro>sv</etipro>
+		<etipro>+</etipro>
+		<etipro>%</etipro>
+		<etipro>^h</etipro>
+		<etipro>qw</etipro>
+		<time>5</time>
+		<gest>Gesture_neutralSurprise</gest>
+	</tag>
+
+<!-- TAG 33 -->
+	<tag>
+		<etipro>sv</etipro>
+		<etipro>+</etipro>
+		<time>4</time>
+		<gest>Gesture_activeSurprise</gest>
+	</tag>
+
+<!-- TAG 34 -->
+	<tag>
+		<etipro>ba</etipro>
+		<time>2</time>
+		<gest>Gesture_passiveSurprise</gest>
+	</tag>
+
+<!-- TAG 35 -->
+	<tag>
+		<etipro>%</etipro>
+		<etipro>fa</etipro>
+		<etipro>sd</etipro>
+		<time>2</time>
+		<gest>Gesture_passiveTalk</gest>
+	</tag>
+        
+<!-- TAG 36 -->
+	<tag>
+		<etipro>sd</etipro>
+		<time>8</time>
+		<gest>Gesture_neutralTalk</gest>
+	</tag>
+
+<!-- TAG 37 -->
+	<tag>
+		<etipro>sd</etipro>
+		<time>14</time>
+		<gest>Gesture_neutralTalk</gest>
+	</tag>			
+	
+</tags>
