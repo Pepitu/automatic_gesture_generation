@@ -1,6 +1,8 @@
 automatic_gesture_generation
 ============================
 
+http://hdl.handle.net/10230/22188
+
 Humanitzant avatars: Generació automàtica de gestos a partir de la parla.
 
 El programa, que utilitza un algorisme d’aprenentatge automàtic, disposarà d’un conjunt de dades d’entrenament
@@ -19,3 +21,4 @@ demanats.
 -	Assignacions: és la classe que tracta les dades d’entrenament; es crea un objecte Assignacions per a cada tag.
 -	AssignacionsTest: en aquesta classe es tracten les dades de test, també es crea un objecte per a cada tag.
 
+Learn more about this project: http://hdl.handle.net/10230/22188
